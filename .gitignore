@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# API keys
+.api_keys
+
+# Data files (optional - remove if you want to include the data)
+youtube_data/
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db 
