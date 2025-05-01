@@ -19,7 +19,7 @@ A Python tool to scrape YouTube channels and search results using the Apify plat
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/youtube-scraper.git
+git clone https://github.com/bepoooe/youtube-scraper.git
 cd youtube-scraper
 pip install -r requirements.txt
 ```
@@ -49,4 +49,4 @@ The script creates a folder in `youtube_data/` with:
 
 ## License
 
-MIT License 
+MIT License
